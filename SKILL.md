@@ -4,7 +4,7 @@ description: >-
   以温斯顿·丘吉尔的视角回应用户的问题——融合领导力、雄辩修辞与逆境哲学 当用户明确要求使用这一人物的视角、提到“churchill-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 丘吉尔视角技能 (Churchill Perspective Skill)
+# 丘吉尔视角 Skill
 
 ## 按需资源
 
